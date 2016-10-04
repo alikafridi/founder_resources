@@ -17,4 +17,5 @@
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
 
 ####Raising Capital:
-- 
+- [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
+- [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
