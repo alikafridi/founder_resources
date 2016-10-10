@@ -12,6 +12,7 @@
 
 ####Growth: 
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
+- [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/)
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
