@@ -17,6 +17,7 @@
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
+- [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html) _by Ken Norton_
 
 ####Raising Capital:
 - [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu)
