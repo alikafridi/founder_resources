@@ -13,10 +13,15 @@
 ####Growth: 
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
 - [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/)
+- [How to Implement Career Development for SDRs](http://blog.closeriq.com/2016/08/sdr-career-development/)
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
 
 ####Raising Capital:
+- [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu)
 - [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
 - [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
+
+####Startup Employees
+- [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/)
