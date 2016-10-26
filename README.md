@@ -11,9 +11,13 @@
 ####Product:
 
 ####Growth: 
+#####Marketing
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
+
+#####Sales
 - [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/)
 - [How to Implement Career Development for SDRs](http://blog.closeriq.com/2016/08/sdr-career-development/)
+- [5 cold email templates that will generate warm leads for your sales team](http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team)
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
@@ -26,3 +30,6 @@
 
 ####Startup Employees
 - [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/)
+
+####Working with Investors:
+- [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/)
