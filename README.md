@@ -23,7 +23,7 @@
 
 ####Raising Capital:
 - [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu) _by Stefano Bernardi_
-- [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/) _ _
+- [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
 - [A compilation of successful startup pitch decks](http://bestpitchdecks.com/) 
 
 ####Startup Employees
