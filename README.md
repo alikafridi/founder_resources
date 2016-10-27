@@ -7,6 +7,7 @@
   - [Part 2: Start with Your Assumptions](http://www.techstars.com/content/accelerators/startup-financial-modeling-part-2-start-assumptions/)
   - [Part 3: The Income Statement and Custom Detail Tabs](http://www.techstars.com/content/accelerators/startup-financial-modeling-part-3-income-statement-custom-detail-tabs/)
   - [Part 4: The Balance Sheet, Cash Flow and Unit Economics](http://www.techstars.com/content/uncategorized/startup-financial-modeling-part-4-balance-sheet-cash-flow-unit-economics/)
+- [Having a VC Cohort Conversation: What VCs expect from Cohort Analysis](https://medium.com/midwest-vc-musings/having-a-vc-cohort-conversation-what-vcs-expect-from-cohort-analysis-452eec36bb07#.w1r5guodw) _by Sonia Nagar_
 
 ####Growth: 
 #####Marketing
@@ -24,10 +25,14 @@
 ####Raising Capital:
 - [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu) _by Stefano Bernardi_
 - [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
-- [A compilation of successful startup pitch decks](http://bestpitchdecks.com/) 
+- [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
+- [Keeping your Data Room Tidy and Complete](http://norrisnode.com/the-basics-keeping-your-data-room-tidy-and-complete/)
 
 ####Startup Employees
 - [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
 
 ####Working with Investors:
 - [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/) _by Avichal Garg_
+
+####General Startup Operations
+- [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
