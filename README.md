@@ -11,6 +11,7 @@
   - [Part 3: The Income Statement and Custom Detail Tabs](http://www.techstars.com/content/accelerators/startup-financial-modeling-part-3-income-statement-custom-detail-tabs/)
   - [Part 4: The Balance Sheet, Cash Flow and Unit Economics](http://www.techstars.com/content/uncategorized/startup-financial-modeling-part-4-balance-sheet-cash-flow-unit-economics/)
 - [Having a VC Cohort Conversation: What VCs expect from Cohort Analysis](https://medium.com/midwest-vc-musings/having-a-vc-cohort-conversation-what-vcs-expect-from-cohort-analysis-452eec36bb07#.w1r5guodw) _by Sonia Nagar_
+- [Understanding Startup Investing: Equity, Convertible Notes, and SAFEs](https://fundersclub.com/learn/guides/understanding-startup-investments/)
 
 ####Growth: 
 #####Marketing
@@ -36,6 +37,7 @@
 
 ####Working with Investors:
 - [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/) _by Avichal Garg_
+- [How To Run Great Board Meetings](https://medium.com/kima-ventures/how-to-run-your-board-meetings-30b613668b21#.23bjm678h)
 
 ####General Startup Operations
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
