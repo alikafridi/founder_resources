@@ -14,6 +14,8 @@
 - [Understanding Startup Investing: Equity, Convertible Notes, and SAFEs](https://fundersclub.com/learn/guides/understanding-startup-investments/)
 
 ####Growth: 
+- _Providing an amazing customer experience:_ [How SoulCycle, Drybar, And Casper Created Cult Brands](https://www.fastcompany.com/3065284/the-fast-company-innovation-festival/how-soulcycle-drybar-and-casper-created-cult-brands) _Sarah Kessler_
+
 #####Marketing
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
 
@@ -32,12 +34,13 @@
 - [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
 - [Keeping your Data Room Tidy and Complete](http://norrisnode.com/the-basics-keeping-your-data-room-tidy-and-complete/)
 
-####Startup Employees
-- [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
-
 ####Working with Investors:
 - [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/) _by Avichal Garg_
 - [How To Run Great Board Meetings](https://medium.com/kima-ventures/how-to-run-your-board-meetings-30b613668b21#.23bjm678h)
+- [Preparing a Board Deck](https://www.sequoiacap.com/article/preparing-a-board-deck/) _by Brian Schreier_
+
+####Startup Employees
+- [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
 
 ####General Startup Operations
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
