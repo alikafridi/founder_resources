@@ -13,9 +13,11 @@
 - [Having a VC Cohort Conversation: What VCs expect from Cohort Analysis](https://medium.com/midwest-vc-musings/having-a-vc-cohort-conversation-what-vcs-expect-from-cohort-analysis-452eec36bb07#.w1r5guodw) _by Sonia Nagar_
 - [Understanding Startup Investing: Equity, Convertible Notes, and SAFEs](https://fundersclub.com/learn/guides/understanding-startup-investments/)
 
-####Growth: 
+####Customer Experience:
+- [Customer Success vs. Customer Support](http://blog.drift.com/customer-success-metrics)
 - _Providing an amazing customer experience:_ [How SoulCycle, Drybar, And Casper Created Cult Brands](https://www.fastcompany.com/3065284/the-fast-company-innovation-festival/how-soulcycle-drybar-and-casper-created-cult-brands) _Sarah Kessler_
 
+####Growth: 
 #####Marketing
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
 
@@ -41,6 +43,10 @@
 
 ####Startup Employees
 - [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
+- [Employee Equity](http://blog.samaltman.com/employee-equity) _by Sam Altman_
+- [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/) _by Fred Wilson_
+- [Employee Equity](http://avc.com/2013/11/employee-equity/) _by Fred Wilson_
+- [Exit Interviews](http://avc.com/2013/09/exit-interviews/) _by Fred Wilson_
 
 ####General Startup Operations
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
