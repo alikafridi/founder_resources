@@ -41,6 +41,7 @@
 
 ####Working with Investors:
 - [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/) _by Avichal Garg_
+- [What should I include in my monthly investor update](http://calacanis.com/2015/01/24/what-should-i-include-in-my-monthly-investment-update/) _by Jason Calacanis_
 - [How To Run Great Board Meetings](https://medium.com/kima-ventures/how-to-run-your-board-meetings-30b613668b21#.23bjm678h)
 - [Preparing a Board Deck](https://www.sequoiacap.com/article/preparing-a-board-deck/) _by Brian Schreier_
 
