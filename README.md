@@ -1,5 +1,7 @@
 ####General:
 - [5 Ways to Build a $100 Million Business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.2r3jjisjp) _by Point Nine Capital_
+- [16 Startup Metrics](http://a16z.com/2015/08/21/16-metrics/) _by A16Z_
+- [16 More Startup Metrics](http://a16z.com/2015/09/23/16-more-metrics/) _by A16Z_
 
 ####Metrics:
 - [The Startup Metrics Cheat Sheet: How to Calculate What You Are Expected to Know](https://blog.mergelane.com/2016/09/26/the-startup-metrics-cheat-sheet-how-to-calculate-what-you-are-expected-to-know/) _by Elizabeth Kraus_
