@@ -28,6 +28,8 @@
 - [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/) _by David Gimbel_
 - [How to Implement Career Development for SDRs](http://blog.closeriq.com/2016/08/sdr-career-development/) _by Marc Jacobs_
 - [5 cold email templates that will generate warm leads for your sales team](http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team) _by Steli Efti_
+- [Enterprise Sales Guide](http://www.enterprisesales.nyc/) _by Work-Bench_
+- [Building Your Best Startup Sales Deck](http://firstround.com/review/building-your-best-sales-deck-starts-here/) _by Peter Kazanjy_
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
@@ -51,3 +53,8 @@
 - [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/) _by Fred Wilson_
 - [Employee Equity](http://avc.com/2013/11/employee-equity/) _by Fred Wilson_
 - [Exit Interviews](http://avc.com/2013/09/exit-interviews/) _by Fred Wilson_
+
+#### Product
+
+- [The 5 types of Virality](https://news.greylock.com/tl-dr-the-five-types-of-virality-2a4c9292c4cc#.spng23hcl) _by Josh Elman_
+
