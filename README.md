@@ -18,11 +18,12 @@
 
 ####Customer Experience:
 - [Customer Success vs. Customer Support](http://blog.drift.com/customer-success-metrics)
-- _Providing an amazing customer experience:_ [How SoulCycle, Drybar, And Casper Created Cult Brands](https://www.fastcompany.com/3065284/the-fast-company-innovation-festival/how-soulcycle-drybar-and-casper-created-cult-brands) _Sarah Kessler_
+- _Providing an amazing customer experience:_ [How SoulCycle, Drybar, And Casper Created Cult Brands](https://www.fastcompany.com/3065284/the-fast-company-innovation-festival/how-soulcycle-drybar-and-casper-created-cult-brands) _by Sarah Kessler_
 
 ####Growth: 
 #####Marketing
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
+- [29 Growth Hacking Quick Wins](http://www.slideshare.net/mattangriffel/29-growth-hacking-quick-wins/150) _by Mattan Griffel_
 
 #####Sales
 - [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/) _by David Gimbel_
@@ -30,6 +31,7 @@
 - [5 cold email templates that will generate warm leads for your sales team](http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team) _by Steli Efti_
 - [Enterprise Sales Guide](http://www.enterprisesales.nyc/) _by Work-Bench_
 - [Building Your Best Startup Sales Deck](http://firstround.com/review/building-your-best-sales-deck-starts-here/) _by Peter Kazanjy_
+- [Selling SaaS like Socrates](https://blog.kissmetrics.com/selling-saas-like-socrates/) _on KissMetrics blog_
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
@@ -39,13 +41,17 @@
 - [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu) _by Stefano Bernardi_
 - [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
 - [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
-- [Keeping your Data Room Tidy and Complete](http://norrisnode.com/the-basics-keeping-your-data-room-tidy-and-complete/)
+- [Keeping your Data Room Tidy and Complete](http://norrisnode.com/the-basics-keeping-your-data-room-tidy-and-complete/) _by David Norris_
+- [How to Present to Investors](https://www.sequoiacap.com/article/how-to-present-to-investors) _by Aaref Hilaly_
 
 ####Working with Investors:
 - [Investor updates](https://avichal.wordpress.com/2016/10/25/investor-updates/) _by Avichal Garg_
 - [What should I include in my monthly investor update](http://calacanis.com/2015/01/24/what-should-i-include-in-my-monthly-investment-update/) _by Jason Calacanis_
 - [How To Run Great Board Meetings](https://medium.com/kima-ventures/how-to-run-your-board-meetings-30b613668b21#.23bjm678h)
 - [Preparing a Board Deck](https://www.sequoiacap.com/article/preparing-a-board-deck/) _by Brian Schreier_
+- You shouldn't be bored at a board meeting _by Ted Wang_
+  - [Part 1: Board meeting dos and don'ts](https://pando.com/2013/02/27/you-shouldnt-be-bored-at-a-board-meeting-pt-1-board-meeting-dos-and-donts/)
+  - [Part 2: Structure for success](https://pando.com/2013/03/01/you-shouldnt-be-bored-at-a-board-meeting-pt-2-structure-for-success/)
 
 ####Startup Employees
 - [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
@@ -57,4 +63,6 @@
 #### Product
 
 - [The 5 types of Virality](https://news.greylock.com/tl-dr-the-five-types-of-virality-2a4c9292c4cc#.spng23hcl) _by Josh Elman_
+- [The Hierarchy of Engagement](http://www.slideshare.net/greylockpartners/the-hierarchy-of-engagement/) _by Sarah Tavel_
+- [Hooked Model](http://www.slideshare.net/nireyal/hooked-model) _by Nir Eyal_
 
