@@ -1,5 +1,6 @@
 ####General:
 - [5 Ways to Build a $100 Million Business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.2r3jjisjp) _by Point Nine Capital_
+- [Tips for Getting Meaningful Customer Feedback](http://firstround.com/review/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product/) _on First Round Review_ —> Good to read before even starting to build your product 
 - [16 Startup Metrics](http://a16z.com/2015/08/21/16-metrics/) _by A16Z_
 - [16 More Startup Metrics](http://a16z.com/2015/09/23/16-more-metrics/) _by A16Z_
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
