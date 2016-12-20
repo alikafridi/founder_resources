@@ -1,12 +1,19 @@
+#### Validating an idea / market opportunity
+
+- [Tips for Getting Meaningful Customer Feedback](http://firstround.com/review/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product/) _on First Round Review_ 
+- [How to Interview your Customer](http://customerdevlabs.com/2013/11/05/how-i-interview-customers/) _on Customer Dev Labs_ 
+- [Getting Customer Interview with Cold Emails](http://customerdevlabs.com/2014/02/18/how-to-send-cold-emails/) _on Customer Dev Labs_ 
+
 ####General:
-- [5 Ways to Build a $100 Million Business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.2r3jjisjp) _by Point Nine Capital_
-- [Tips for Getting Meaningful Customer Feedback](http://firstround.com/review/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product/) _on First Round Review_ —> Good to read before even starting to build your product 
-- [16 Startup Metrics](http://a16z.com/2015/08/21/16-metrics/) _by A16Z_
-- [16 More Startup Metrics](http://a16z.com/2015/09/23/16-more-metrics/) _by A16Z_
-- [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_
+
+- [5 Ways to Build a $100 Million Business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.2r3jjisjp) _by Point Nine Capital_ 
+- [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_ 
 
 ####Metrics:
-- [The Startup Metrics Cheat Sheet: How to Calculate What You Are Expected to Know](https://blog.mergelane.com/2016/09/26/the-startup-metrics-cheat-sheet-how-to-calculate-what-you-are-expected-to-know/) _by Elizabeth Kraus_
+- [The Startup Metrics Cheat Sheet: How to Calculate What You Are Expected to Know](https://blog.mergelane.com/2016/09/26/the-startup-metrics-cheat-sheet-how-to-calculate-what-you-are-expected-to-know/) _by Elizabeth Kraus_ 
+- [16 Startup Metrics](http://a16z.com/2015/08/21/16-metrics/) _by A16Z_ 
+- [16 More Startup Metrics](http://a16z.com/2015/09/23/16-more-metrics/) _by A16Z_ 
+- [Why Negative Churn Is Such a Powerful Growth Mechanism (for SaaS businesses)](http://tomtunguz.com/negative-churn/) _by Tom Tunguz_
 
 ####Finance:
 - Startup Financial Model _by Will Little and Troy Henikoff_
@@ -33,6 +40,7 @@
 - [Enterprise Sales Guide](http://www.enterprisesales.nyc/) _by Work-Bench_
 - [Building Your Best Startup Sales Deck](http://firstround.com/review/building-your-best-sales-deck-starts-here/) _by Peter Kazanjy_
 - [Selling SaaS like Socrates](https://blog.kissmetrics.com/selling-saas-like-socrates/) _on KissMetrics blog_
+- [Founding Sales](https://docs.google.com/document/d/1ZHCSm5yUAGhdpDH9VFTPS271LZ-RgF3YHkvZQePxGnM/edit) _by Peter Kazanjy_ —> Lots of great knowledge around hiring, onboarding, scaling and closing sales. Very long though. 
 
 ####Recruiting:
 - [Startup Recruiting Workbook: Sourcing and Interview Process](http://www.work-bench.com/blog/2016/09/21/startup-recruiting-workbook-sourcing-and-interviewing-process/) _by Stephanie Manning_
@@ -55,8 +63,9 @@
   - [Part 2: Structure for success](https://pando.com/2013/03/01/you-shouldnt-be-bored-at-a-board-meeting-pt-2-structure-for-success/)
 
 ####Startup Employees
+- [A Strong Team Starts at Onboarding](http://www.forentrepreneurs.com/onboarding/) _by David Skok_
 - [How Startup Options (and Ownership) Works](http://a16z.com/2016/08/24/options-ownership/) _by Scott Kupor_
-- [Employee Equity](http://blog.samaltman.com/employee-equity) _by Sam Altman_
+- [Employee Equity](http://blog.samaltman.com/employee-equity) _by Sam Altman_ 
 - [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/) _by Fred Wilson_
 - [Employee Equity](http://avc.com/2013/11/employee-equity/) _by Fred Wilson_
 - [Exit Interviews](http://avc.com/2013/09/exit-interviews/) _by Fred Wilson_
