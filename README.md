@@ -8,6 +8,7 @@
 
 - [5 Ways to Build a $100 Million Business](https://medium.com/point-nine-news/5-ways-to-build-a-100-million-business-c5066181bf50#.2r3jjisjp) _by Point Nine Capital_ 
 - [How to De-Risk a Startup](https://codingvc.com/how-to-de-risk-a-startup) _by Leo Polovets_ 
+- [The Founder's Guide To Selling Your Company](https://justinkan.com/the-founders-guide-to-selling-your-company-a1b2025c9481#.axvqx6f8s) _by Justin Kan_
 
 ####Metrics:
 - [The Startup Metrics Cheat Sheet: How to Calculate What You Are Expected to Know](https://blog.mergelane.com/2016/09/26/the-startup-metrics-cheat-sheet-how-to-calculate-what-you-are-expected-to-know/) _by Elizabeth Kraus_ 
