@@ -76,4 +76,6 @@
 - [The 5 types of Virality](https://news.greylock.com/tl-dr-the-five-types-of-virality-2a4c9292c4cc#.spng23hcl) _by Josh Elman_
 - [The Hierarchy of Engagement](http://www.slideshare.net/greylockpartners/the-hierarchy-of-engagement/) _by Sarah Tavel_
 - [Hooked Model](http://www.slideshare.net/nireyal/hooked-model) _by Nir Eyal_
+- [Product Hunt's PRD](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit#) _by the Product Hunt team_ 
+
 
