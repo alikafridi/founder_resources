@@ -70,12 +70,10 @@
 - [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/) _by Fred Wilson_
 - [Employee Equity](http://avc.com/2013/11/employee-equity/) _by Fred Wilson_
 - [Exit Interviews](http://avc.com/2013/09/exit-interviews/) _by Fred Wilson_
+- [5 cheap, old-school hacks for building company culture in 2017](https://medium.com/@invoker/5-cheap-old-school-hacks-for-building-company-culture-in-2017-83cc7e6f43e8?_hsenc=p2ANqtz--yjJRkaqUjApoE-q4J7HiszUT1-Hxjknx_Yb-rkoNu5h1WDG2UAwPz0UZhI89QoAnAZGGkhJL95IeVK2oGvgOtLBsieg&_hsmi=40108031#.zbl97ud8y)
 
 #### Product
-
 - [The 5 types of Virality](https://news.greylock.com/tl-dr-the-five-types-of-virality-2a4c9292c4cc#.spng23hcl) _by Josh Elman_
 - [The Hierarchy of Engagement](http://www.slideshare.net/greylockpartners/the-hierarchy-of-engagement/) _by Sarah Tavel_
 - [Hooked Model](http://www.slideshare.net/nireyal/hooked-model) _by Nir Eyal_
 - [Product Hunt's PRD](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit#) _by the Product Hunt team_ 
-
-
