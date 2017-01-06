@@ -3,6 +3,7 @@
 - [Tips for Getting Meaningful Customer Feedback](http://firstround.com/review/the-power-of-interviewing-customers-the-right-way-from-twitters-ex-vp-product/) _on First Round Review_ 
 - [How to Interview your Customer](http://customerdevlabs.com/2013/11/05/how-i-interview-customers/) _on Customer Dev Labs_ 
 - [Getting Customer Interview with Cold Emails](http://customerdevlabs.com/2014/02/18/how-to-send-cold-emails/) _on Customer Dev Labs_ 
+- [54 Mistakes of a Startup CEO](https://www.cbinsights.com/blog/startup-ceo-screwups/) _by Anand Sanwal_
 
 ####General:
 
