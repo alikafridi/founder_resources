@@ -71,7 +71,9 @@
 - [Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/) _by Fred Wilson_
 - [Employee Equity](http://avc.com/2013/11/employee-equity/) _by Fred Wilson_
 - [Exit Interviews](http://avc.com/2013/09/exit-interviews/) _by Fred Wilson_
-- [5 cheap, old-school hacks for building company culture in 2017](https://medium.com/@invoker/5-cheap-old-school-hacks-for-building-company-culture-in-2017-83cc7e6f43e8?_hsenc=p2ANqtz--yjJRkaqUjApoE-q4J7HiszUT1-Hxjknx_Yb-rkoNu5h1WDG2UAwPz0UZhI89QoAnAZGGkhJL95IeVK2oGvgOtLBsieg&_hsmi=40108031#.zbl97ud8y)
+- [5 cheap, old-school hacks for building company culture in 2017](https://medium.com/@invoker/5-cheap-old-school-hacks-for-building-company-culture-in-2017-83cc7e6f43e8)
+- [Breaking down RSAs and RSUs](https://medium.com/eshares-blog/breaking-down-rsas-and-rsus-59627b3e273d#.79h62ag5r)
+
 
 #### Product
 - [The 5 types of Virality](https://news.greylock.com/tl-dr-the-five-types-of-virality-2a4c9292c4cc#.spng23hcl) _by Josh Elman_
