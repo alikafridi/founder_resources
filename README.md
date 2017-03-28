@@ -51,6 +51,7 @@
 ####Raising Capital:
 - [Takeaways from yCs demo day pitches from an alumni turned investor](https://medium.com/@stefanobernardi/takeaways-from-ycs-demo-day-pitches-from-an-alumni-turned-investor-292af1c03540#.t30v1rozu) _by Stefano Bernardi_
 - [How to create a pitch deck for investors](https://www.marsdd.com/mars-library/how-to-create-a-pitch-deck-for-investors/)
+- [Startup Pitch Decks](https://www.slideshare.net/schlaf/startup-pitch-decks) _by Steve Schlafman_
 - [A compilation of successful startup pitch decks](http://bestpitchdecks.com/)
 - [Keeping your Data Room Tidy and Complete](http://norrisnode.com/the-basics-keeping-your-data-room-tidy-and-complete/) _by David Norris_
 - [How to Present to Investors](https://www.sequoiacap.com/article/how-to-present-to-investors) _by Aaref Hilaly_
