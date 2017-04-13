@@ -34,6 +34,7 @@
 #####Marketing
 - [10 Lessons from 1-Year in a VC Growth Role](https://medium.com/madrona-venture-group/10-lessons-from-1-year-in-a-vc-growth-role-29f50665aa18/) _by Ryan Metzger_
 - [29 Growth Hacking Quick Wins](http://www.slideshare.net/mattangriffel/29-growth-hacking-quick-wins/150) _by Mattan Griffel_
+- [Fundamentals of Startup Marketing: How to Punch Above Your Weight Class](http://labs.openviewpartners.com/fundamentals-of-startup-marketing/) _by Drew Beechler_
 
 #####Sales
 - [How to Set Up an Outbound SDR Process](http://blog.closeriq.com/2016/10/outbound-sdr-process/) _by David Gimbel_
