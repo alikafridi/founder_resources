@@ -15,6 +15,7 @@
 - [16 Startup Metrics](http://a16z.com/2015/08/21/16-metrics/) _by A16Z_ 
 - [16 More Startup Metrics](http://a16z.com/2015/09/23/16-more-metrics/) _by A16Z_ 
 - [Why Negative Churn Is Such a Powerful Growth Mechanism (for SaaS businesses)](http://tomtunguz.com/negative-churn/) _by Tom Tunguz_
+- [Numbers that Actually Matter. Finding Your North Star](https://www.slideshare.net/03133938319/numbers-that-actually-matter-finding-your-north-star) _by Mamoon Hamid_
 
 #### Finance:
 - Startup Financial Model _by Will Little and Troy Henikoff_
