@@ -67,6 +67,7 @@
 - You shouldn't be bored at a board meeting _by Ted Wang_
   - [Part 1: Board meeting dos and don'ts](https://pando.com/2013/02/27/you-shouldnt-be-bored-at-a-board-meeting-pt-1-board-meeting-dos-and-donts/)
   - [Part 2: Structure for success](https://pando.com/2013/03/01/you-shouldnt-be-bored-at-a-board-meeting-pt-2-structure-for-success/)
+- [Best Practices for Startup Board Meetings](https://medium.com/bz-notes/best-practices-for-startup-board-meetings-fe0769816fb3) _by Bilal Zuberi_
 
 #### Startup Employees
 - [A Strong Team Starts at Onboarding](http://www.forentrepreneurs.com/onboarding/) _by David Skok_
